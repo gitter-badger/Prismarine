@@ -1,4 +1,6 @@
 # Prismarine
+
+[![Join the chat at https://gitter.im/Prismarine/Prismarine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Prismarine/Prismarine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Prismarine is an implementation of our Minecraft server API, called PrismarineAPI. Prismarine enables developers to develop plugins in the popular scripting language Javascript, and we are planning to support languages such as Python, and ofcourse Java. Prismarine is focussing on creating a stable server mod with great performance, and easy plugin development. Prismarine's developers have been playing minecraft for years now, and have managed big minecraft servers, giving us an unique perspective of what an API should look like.
 
 NOTE: THIS IS EXTREMELY UNSTABLE SOFTWARE, WITH CODE THAT IS HEAVILY IN DEVELOPMENT.
